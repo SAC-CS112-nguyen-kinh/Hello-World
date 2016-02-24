@@ -1,3 +1,7 @@
-# Hello-World
-My first program.
-My name is Kinh Nguyen.
+public class HelloWorld {
+	
+	public static void main(String[] args) {
+		System.out.println("Hello, World!!");
+	}
+
+}
